@@ -1,5 +1,5 @@
 site_title = "Lab-arXiv"
-limit_days = 7
+limit_days =  7
 cache_url = "https://hkust-ai-lab.github.io/Lab-arXiv/cache.json"
 
 [[sources]]
