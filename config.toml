@@ -1,6 +1,6 @@
 site_title = "Lab-arXiv"
 limit_days = 7
-cache_url = "https://hkust-ai-lab.github.io/Lab-arXiv/cache.json"
+cache_url = "https://hkust-trans-lab.github.io/Lab-arXiv/cache.json"
 
 [[sources]]
 limit = 150
